@@ -1,2 +1,2 @@
 # hello-world
-baby step 1
+Hei GITHUB I really like it here, I found myself a new home!
